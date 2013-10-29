@@ -1,0 +1,7 @@
+def fuenfMal (Value)
+	puts (value)
+	puts (value)
+	puts (value)
+	puts (value)
+	puts (value)
+	fuenfMal ("Hallo Welt")
